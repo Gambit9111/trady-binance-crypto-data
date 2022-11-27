@@ -1,0 +1,1 @@
+# trady-binance-crypto-data
